@@ -7,11 +7,8 @@ h1 {
     text-align: center;
 }
 
-.friend {
-    background-color: red;
+h3 {
     text-transform: uppercase;
-    color: white;
-    text-align: center;
 }
 
 #btn1 {
