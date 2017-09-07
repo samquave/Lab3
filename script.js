@@ -1,7 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
     var btn = document.getElementById('btn1');
     btn.addEventListener('click', function(){
-
 var friends = ["Batman", "Superman", "The Flash", "Green Arrow", "Aquaman"];
 for (var i = 0; i < friends.length; i++) {
     var div = document.createElement('div');
